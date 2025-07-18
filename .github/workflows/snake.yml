@@ -1,0 +1,29 @@
+name: Snake Game 🐍
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
+
+      - name: Gerar animação da cobrinha
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit e push da cobrinha
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Pablo França
+          author_email: pabloesdrasfranca@gmail.com
+          message: "🐍 animação diária da cobrinha"
+          add: "dist/*.svg"
