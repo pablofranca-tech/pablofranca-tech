@@ -14,10 +14,10 @@
 ### 👨‍💻 Sobre mim
 
 - 🔭 Buscando estágio na área de **Tecnologia da Informação**
-- 📚 Estudando **Análise e Desenvolvimento de Sistemas** na **FIAP**
-- 💻 Aprendendo **Python para Data Science** 
-- 🎯 Sonho: Me tornar um **Desenvolvedor Full Stack** completo
-- 🌐 Interesses: Front-end | Back-end | Banco de Dados | Automação
+- 📚 Estudando **Análise e Desenvolvimento de Sistemas**  ****
+- 💻 Focado em **Python para Desenvolvimento** (lógica, automação e web)
+- 🎯 Meta: Me tornar um **Desenvolvedor Full Stack**
+- 🌐 Interesses: Front-end básico | Back-end com Python | Automação
 - 😄 Pronomes: ele/dele
 
 ---
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -86,6 +86,3 @@
   <br>
   <strong>Obrigado por visitar meu perfil!</strong>
 </p>
-
----
-
