@@ -14,7 +14,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🔭 Buscando estágio na área de **Tecnologia da Informação**
-- 📚 Estudando **Análise e Desenvolvimento de Sistemas**  ****
+- 📚 Estudando **Análise e Desenvolvimento de Sistemas**  **FIAP**
 - 💻 Focado em **Python para Desenvolvimento** (lógica, automação e web)
 - 🎯 Meta: Me tornar um **Desenvolvedor Full Stack**
 - 🌐 Interesses: Front-end básico | Back-end com Python | Automação
