@@ -37,12 +37,8 @@
 ### 📡 Radar do meu progresso como desenvolvedor 🚀📈
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablofranca-tech&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofranca-tech&layout=compact&theme=radical&hide=c" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablofranca-tech&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pablofranca-tech&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pablofranca-tech&theme=radical" />
 </p>
 
 ---
