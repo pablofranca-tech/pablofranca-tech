@@ -13,10 +13,14 @@
 
 ### 👨‍💻 Sobre mim
 
-🎯 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
-🚀 Em busca de estágio em Tecnologia da Informação para aplicar e expandir meus conhecimentos
+🎯 Estudante de *Análise e Desenvolvimento de Sistemas na FIAP*
+
+🚀 Em busca de *estágio* em Tecnologia para aplicar e expandir meus conhecimentos
+
 📈 Comprometido com o crescimento contínuo e pronto para contribuir com projetos reais
+
 🤝 Disposto a enfrentar desafios, colaborar em equipe e aprender com profissionais da área
+
 😄 Pronomes: ele/dele
 
 ---
