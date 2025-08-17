@@ -1,4 +1,4 @@
-<h1 align="center">✨ Pablo França ✨</h1>
+<h1 align="center"> Pablo França </h1>
 <h3 align="center">Estudante de T.I | Explorador do mundo da tecnologia 🚀</h3>
 
 <p align="center">
@@ -13,12 +13,11 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Buscando estágio na área de **Tecnologia da Informação**
-- 📚 Estudando **Análise e Desenvolvimento de Sistemas**  **FIAP**
-- 💻 Focado em **Python para Desenvolvimento** (lógica, automação e web)
-- 🎯 Meta: Me tornar um **Desenvolvedor Full Stack**
-- 🌐 Interesses: Front-end básico | Back-end com Python | Automação
-- 😄 Pronomes: ele/dele
+🎯 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+🚀 Em busca de estágio em Tecnologia da Informação para aplicar e expandir meus conhecimentos
+📈 Comprometido com o crescimento contínuo e pronto para contribuir com projetos reais
+🤝 Disposto a enfrentar desafios, colaborar em equipe e aprender com profissionais da área
+😄 Pronomes: ele/dele
 
 ---
 
@@ -37,16 +36,12 @@
 ### 📡 Radar do meu progresso como desenvolvedor 🚀📈
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pablofranca-tech&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pablofranca-tech&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablofranca-tech&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofranca-tech&layout=compact&theme=radical&hide=c" />
 </p>
 
----
-
-### 🏆 Conquistas no GitHub
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pablofranca-tech&theme=radical&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablofranca-tech&theme=radical" />
 </p>
 
 ---
@@ -67,7 +62,7 @@
   </a>
 </p>
 
-- 💼 Em breve: Portfólio e Projetos pessoais
+
 
 ---
 
@@ -82,8 +77,3 @@
   <br>
   <strong>Obrigado por visitar meu perfil!</strong>
 </p>
-<p align="center">
-  <img src="https://github.com/pablofranca-tech/pablofranca-tech/blob/main/dist/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
-
