@@ -82,5 +82,8 @@
   <br>
   <strong>Obrigado por visitar meu perfil!</strong>
 </p>
+<p align="center">
+  <img src="https://github.com/pablofranca-tech/pablofranca-tech/blob/main/dist/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
