@@ -81,3 +81,5 @@
   <br>
   <strong>Obrigado por visitar meu perfil!</strong>
 </p>
+
+dist/github-snake-dark.svg
