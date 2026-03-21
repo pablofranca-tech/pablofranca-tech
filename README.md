@@ -1,85 +1,113 @@
 <h1 align="center"> Pablo França </h1>
-<h3 align="center">Estudante de T.I | Explorador do mundo da tecnologia 🚀</h3>
+<h3 align="center">Desenvolvedor em formação | Back-end & Mobile 🚀</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,flutter" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80">
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1500&color=00FFFF&background=00000000&width=550&lines=Codificando+o+futuro;Construindo+solu%C3%A7%C3%B5es;Apaixonado+por+tecnologia;Pablo+Fran%C3%A7a" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&color=00FFFF&background=00000000&width=550&lines=Java+%7C+Dart+%7C+JavaScript;Backend+e+Mobile;UI%2FUX+com+Figma;Construindo+projetos+reais;Foco+em+evolu%C3%A7%C3%A3o" />
 </div>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-🎯 Estudante de *Análise e Desenvolvimento de Sistemas na FIAP*
+🎯 Estudante de *Análise e Desenvolvimento de Sistemas na FIAP*  
 
-🚀 Em busca de *estágio* em Tecnologia para aplicar e expandir meus conhecimentos
+🚀 Buscando oportunidade de *estágio em desenvolvimento*  
 
-📈 Comprometido com o crescimento contínuo e pronto para contribuir com projetos reais
+💡 Foco em **Back-end com Java** e **Mobile com Flutter**  
 
-🤝 Disposto a enfrentar desafios, colaborar em equipe e aprender com profissionais da área
+🎨 Também trabalho com **design de interfaces usando Figma**  
 
-😄 Pronomes: ele/dele
+📈 Evoluindo constantemente com projetos práticos  
 
----
+🤝 Aberto a aprender, colaborar e crescer na área  
 
-### 💡 Tecnologias em aprendizado 🧠💻
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding gif">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
-</p>
+😄 Pronomes: ele/dele  
 
 ---
 
-### 📡 Radar do meu progresso como desenvolvedor 🚀📈
+### 🧠 Stack principal
+
+#### 🚀 Back-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+</p>
+
+#### 🌐 Front-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+#### 📱 Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
+</p>
+
+#### 🎨 UI/UX
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+#### ⚙️ Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+### 📊 Linguagens mais usadas (% real do GitHub)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofranca-tech&layout=compact&theme=radical&langs_count=6" />
+</p>
+
+---
+
+### 📡 Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablofranca-tech&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofranca-tech&layout=compact&theme=radical&hide=c" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablofranca-tech&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pablofranca-tech&theme=radical" />
 </p>
 
 ---
 
-### 📫 Como falar comigo 📬
-
-<p align="center">
-  <a href="mailto:pabloesdrasfranca@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pablo-fran%C3%A7a-a2307124a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/pl_franca" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-
 
 ---
 
-### ⚡ Grand Minds  🌟
+### 📫 Contato
 
-> "Cada projeto é uma nova missão. E eu sou o dev que vai cumprir." 👨‍🚀✨
+<p align="center">
+  <a href="mailto:pabloesdrasfranca@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pablo-fran%C3%A7a-a2307124a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/pl_franca">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Mentalidade
+
+> "Disciplina, constância e evolução diária."
 
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200">
   <br>
-  <strong>Obrigado por visitar meu perfil!</strong>
+  <strong>Obrigado por visitar meu perfil 👊</strong>
 </p>
-
-dist/github-snake-dark.svg
