@@ -1,176 +1,200 @@
-<h1 align="center">Pablo França</h1>
+<div align="center">
 
-<h3 align="center">
-Desenvolvedor Back-end & Mobile
-</h3>
+![Status](https://img.shields.io/badge/Disponível_para_estágio-2ea44f?style=flat-square)
 
-<p align="center">
-Java • Spring Boot • Oracle Database • ABAP • Flutter
-</p>
+# Pablo França
 
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas na FIAP
-</p>
+**Desenvolvedor Back-end & Mobile · Estudante na FIAP**
+
+![Java](https://img.shields.io/badge/Java_%26_Spring_Boot-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter_%26_Dart-02569B?style=flat-square&logo=flutter&logoColor=white)
+![REST](https://img.shields.io/badge/APIs_REST-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+</div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+# 👨‍💻 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (FIAP)** com foco em desenvolvimento de software e soluções empresariais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com foco em desenvolvimento de software e soluções empresariais.
 
-Atualmente estou aprofundando meus conhecimentos em:
+Atualmente construo minha base técnica em:
 
 - ☕ Desenvolvimento Back-end com Java e Spring Boot
-- 🗄️ Banco de Dados Oracle e SQL
+- 🗄️ Oracle Database e SQL
 - 🏢 Desenvolvimento SAP ABAP
 - 📱 Desenvolvimento Mobile com Flutter
 - 🔗 APIs REST
 - 🧠 Programação Orientada a Objetos
-- ☁️ Conceitos de aplicações em nuvem
+- ☁️ Desenvolvimento de Aplicações em Nuvem
 
-Meu objetivo é conquistar uma oportunidade de estágio onde eu possa aplicar conhecimentos técnicos, colaborar em projetos reais e evoluir continuamente como desenvolvedor.
-
----
-
-## 🚀 Tecnologias
-
-### Back-end
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
-</p>
-
-### Banco de Dados
-
-<p align="center">
-  Oracle Database • SQL • Modelagem Relacional
-</p>
-
-### SAP
-
-<p align="center">
-  ABAP • Desenvolvimento de Aplicações Empresariais
-</p>
-
-### Mobile
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### Front-end
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-### Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+Busco uma oportunidade de **estágio em desenvolvimento** para aplicar conhecimentos técnicos, colaborar em projetos reais e evoluir continuamente como profissional da tecnologia.
 
 ---
 
-## 📚 Atualmente Estudando
+# 🚀 Stack Principal
+
+| Área | Tecnologias |
+|--------|--------|
+| **Back-end** | Java, Spring Boot, APIs REST, Orientação a Objetos |
+| **Banco de Dados** | Oracle Database, SQL, Modelagem Relacional |
+| **Enterprise / ERP** | SAP ABAP |
+| **Mobile** | Flutter, Dart |
+| **Front-end** | HTML, CSS, JavaScript |
+| **Ferramentas** | Git, GitHub, VS Code, Figma |
+
+---
+
+# 📚 Atualmente Estudando
+
+### Desenvolvimento Back-end
 
 - Java Avançado
 - Spring Boot
+- APIs REST
+- Arquitetura em Camadas
+- Boas Práticas de Desenvolvimento
+
+### Banco de Dados
+
 - Oracle Database
 - SQL
+- Procedures
+- Modelagem Relacional
+
+### Sistemas Corporativos
+
 - SAP ABAP
-- APIs REST
-- Arquitetura de Software
-- Desenvolvimento Full Stack
-- Cloud Computing
+- Desenvolvimento de Aplicações Empresariais
+- Integração de Sistemas
+
+### Cloud & Engenharia de Software
+
+- Desenvolvimento de Aplicações em Nuvem
 - Design Orientado a Objetos
+- Estruturas de Projeto Escaláveis
 
 ---
 
-## 🎯 Áreas de Interesse
+# 🎯 Objetivos Profissionais
 
-✔ Desenvolvimento Back-end
-
-✔ Engenharia de Software
-
-✔ Sistemas Corporativos
-
-✔ Banco de Dados
-
-✔ ERP SAP
-
-✔ Desenvolvimento Mobile
-
-✔ Integração de Sistemas
+- Desenvolvimento Back-end com Java
+- Engenharia de Software
+- Sistemas Corporativos
+- Oracle Database
+- SAP ABAP
+- Arquitetura de Software
+- Cloud Computing
+- Desenvolvimento Mobile
 
 ---
 
-## 📂 Projetos em Destaque
+# 📂 Projetos em Destaque
 
-### 🚧 Em construção
+## ☕ API REST com Spring Boot
 
-Estou desenvolvendo projetos focados em:
+Sistema desenvolvido utilizando arquitetura em camadas, autenticação JWT e integração com banco de dados.
 
-- APIs REST com Spring Boot
-- Integração com Banco Oracle
-- Aplicações Mobile em Flutter
-- Sistemas CRUD completos
-- Boas práticas de arquitetura
+**Tecnologias**
 
-Em breve novos projetos serão adicionados ao perfil.
+`Java` `Spring Boot` `Oracle Database` `JWT` `REST API`
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📱 Aplicação Mobile com Flutter
+
+Aplicativo mobile com consumo de APIs REST, gerenciamento de estado e interface responsiva.
+
+**Tecnologias**
+
+`Flutter` `Dart` `REST API`
+
+---
+
+## 🏢 Projetos SAP ABAP
+
+Projetos voltados para o desenvolvimento de aplicações empresariais e automação de processos corporativos utilizando SAP ABAP.
+
+**Tecnologias**
+
+`ABAP` `SAP`
+
+---
+
+> 🚀 Novos projetos serão adicionados conforme minha evolução acadêmica e profissional.
+
+---
+
+# 🛠 Tecnologias
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablofranca-tech&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofranca-tech&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,flutter,dart,javascript,html,css,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📈 Atividade
+# 📈 Linguagens Mais Utilizadas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablofranca-tech&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofranca-tech&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
 </p>
 
 ---
 
-## 💡 Perfil Profissional
+# 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablofranca-tech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=pablofranca-tech&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📋 Resumo do Perfil
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablofranca-tech&theme=tokyonight" />
+</p>
+
+---
+
+# 💡 Perfil Profissional
 
 ```java
 public class PabloFranca {
 
-    String formacao = "Análise e Desenvolvimento de Sistemas";
-    String instituicao = "FIAP";
+    private final String formation =
+            "Análise e Desenvolvimento de Sistemas - FIAP";
 
-    String backend = "Java + Spring Boot";
-    String bancoDados = "Oracle Database";
-    String erp = "SAP ABAP";
-    String mobile = "Flutter";
+    private final List<String> technologies = List.of(
+            "Java",
+            "Spring Boot",
+            "Oracle Database",
+            "SAP ABAP",
+            "Flutter"
+    );
 
-    String objetivo =
-        "Construir soluções escaláveis e gerar impacto através da tecnologia";
+    private final boolean openToWork = true;
 
+    public String goal() {
+        return "Construir soluções escaláveis para ambientes corporativos";
+    }
 }
 ```
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
 <p align="center">
   <a href="mailto:pabloesdrasfranca@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/pablo-fran%C3%A7a-a2307124a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/pablofranca-tech">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -179,7 +203,5 @@ public class PabloFranca {
 ---
 
 <p align="center">
-  <strong>
-    Transformando aprendizado em soluções reais através da tecnologia.
-  </strong>
+  <strong>"Transformando aprendizado em soluções reais através da tecnologia."</strong>
 </p>
