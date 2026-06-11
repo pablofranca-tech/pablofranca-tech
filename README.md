@@ -1,113 +1,185 @@
-<h1 align="center"> Pablo França </h1>
-<h3 align="center">Desenvolvedor em formação | Back-end & Mobile 🚀</h3>
+<h1 align="center">Pablo França</h1>
+
+<h3 align="center">
+Desenvolvedor Back-end & Mobile
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,flutter" />
+Java • Spring Boot • Oracle Database • ABAP • Flutter
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80">
+  Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&color=00FFFF&background=00000000&width=550&lines=Java+%7C+Dart+%7C+JavaScript;Backend+e+Mobile;UI%2FUX+com+Figma;Construindo+projetos+reais;Foco+em+evolu%C3%A7%C3%A3o" />
-</div>
+---
+
+## 👨‍💻 Sobre Mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (FIAP)** com foco em desenvolvimento de software e soluções empresariais.
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- ☕ Desenvolvimento Back-end com Java e Spring Boot
+- 🗄️ Banco de Dados Oracle e SQL
+- 🏢 Desenvolvimento SAP ABAP
+- 📱 Desenvolvimento Mobile com Flutter
+- 🔗 APIs REST
+- 🧠 Programação Orientada a Objetos
+- ☁️ Conceitos de aplicações em nuvem
+
+Meu objetivo é conquistar uma oportunidade de estágio onde eu possa aplicar conhecimentos técnicos, colaborar em projetos reais e evoluir continuamente como desenvolvedor.
 
 ---
 
-### 👨‍💻 Sobre mim
+## 🚀 Tecnologias
 
-🎯 Estudante de *Análise e Desenvolvimento de Sistemas na FIAP*  
+### Back-end
 
-🚀 Buscando oportunidade de *estágio em desenvolvimento*  
-
-💡 Foco em **Back-end com Java** e **Mobile com Flutter**  
-
-🎨 Também trabalho com **design de interfaces usando Figma**  
-
-📈 Evoluindo constantemente com projetos práticos  
-
-🤝 Aberto a aprender, colaborar e crescer na área  
-
-😄 Pronomes: ele/dele  
-
----
-
-### 🧠 Stack principal
-
-#### 🚀 Back-end
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
 </p>
 
-#### 🌐 Front-end
+### Banco de Dados
+
+<p align="center">
+  Oracle Database • SQL • Modelagem Relacional
+</p>
+
+### SAP
+
+<p align="center">
+  ABAP • Desenvolvimento de Aplicações Empresariais
+</p>
+
+### Mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### Front-end
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-#### 📱 Mobile
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter" />
-</p>
+### Ferramentas
 
-#### 🎨 UI/UX
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-#### ⚙️ Ferramentas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-### 📊 Linguagens mais usadas (% real do GitHub)
+## 📚 Atualmente Estudando
+
+- Java Avançado
+- Spring Boot
+- Oracle Database
+- SQL
+- SAP ABAP
+- APIs REST
+- Arquitetura de Software
+- Desenvolvimento Full Stack
+- Cloud Computing
+- Design Orientado a Objetos
+
+---
+
+## 🎯 Áreas de Interesse
+
+✔ Desenvolvimento Back-end
+
+✔ Engenharia de Software
+
+✔ Sistemas Corporativos
+
+✔ Banco de Dados
+
+✔ ERP SAP
+
+✔ Desenvolvimento Mobile
+
+✔ Integração de Sistemas
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🚧 Em construção
+
+Estou desenvolvendo projetos focados em:
+
+- APIs REST com Spring Boot
+- Integração com Banco Oracle
+- Aplicações Mobile em Flutter
+- Sistemas CRUD completos
+- Boas práticas de arquitetura
+
+Em breve novos projetos serão adicionados ao perfil.
+
+---
+
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofranca-tech&layout=compact&theme=radical&langs_count=6" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablofranca-tech&show_icons=true&theme=tokyonight&count_private=true" />
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofranca-tech&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
 
-### 📡 Estatísticas do GitHub
+## 📈 Atividade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablofranca-tech&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pablofranca-tech&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablofranca-tech&theme=tokyonight" />
 </p>
 
 ---
 
+## 💡 Perfil Profissional
+
+```java
+public class PabloFranca {
+
+    String formacao = "Análise e Desenvolvimento de Sistemas";
+    String instituicao = "FIAP";
+
+    String backend = "Java + Spring Boot";
+    String bancoDados = "Oracle Database";
+    String erp = "SAP ABAP";
+    String mobile = "Flutter";
+
+    String objetivo =
+        "Construir soluções escaláveis e gerar impacto através da tecnologia";
+
+}
+```
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
 <p align="center">
   <a href="mailto:pabloesdrasfranca@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/pablo-fran%C3%A7a-a2307124a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/pl_franca">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+  <a href="https://github.com/pablofranca-tech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚡ Mentalidade
-
-> "Disciplina, constância e evolução diária."
-
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200">
-  <br>
-  <strong>Obrigado por visitar meu perfil 👊</strong>
+  <strong>
+    Transformando aprendizado em soluções reais através da tecnologia.
+  </strong>
 </p>
