@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.gif" alt="Pablo França - Full Stack Developer" width="100%" />
+
+<img src="<img width="1000" height="320" alt="banner (1)" src="https://github.com/user-attachments/assets/1948582e-81ff-4e7a-90b5-ce8ccc24db7a" />
+" alt="Pablo França - Full Stack Developer" width="100%" />
 
 # Pablo França
 
