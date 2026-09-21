@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="assets/pablo-cyber.gif" width="300" alt="Pablo França" />
+<img src="assets/banner.gif" alt="Pablo França - Full Stack Developer" width="100%" />
 
 # Pablo França
 
-**Desenvolvedor Back-end & Mobile · Estagiário na EducaTV · Estudante na FIAP**
+**Desenvolvedor Full Stack · Estagiário na EducaTV · Estudante na FIAP**
 
 ![Status](https://img.shields.io/badge/Estagiando-EducaTV-2ea44f?style=flat-square)
 ![FIAP](https://img.shields.io/badge/FIAP-ED145B?style=flat-square)
 
 ![Java](https://img.shields.io/badge/Java_%26_Spring_Boot-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter_%26_Dart-02569B?style=flat-square&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![REST](https://img.shields.io/badge/APIs_REST-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 </div>
@@ -23,7 +23,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e **estagiário na EducaTV, pela Prefeitura**, onde aplico meus conhecimentos em projetos reais.
 
-Meu foco é **back-end com Java e Spring Boot**, bancos **Oracle**, sistemas corporativos com **SAP ABAP** e apps **mobile com Flutter**. Gosto de construir soluções escaláveis para ambientes corporativos.
+Sou desenvolvedor **Full Stack**: trabalho com **Java e Spring Boot** no back-end, **Oracle** no banco de dados, **HTML, CSS e JavaScript** no front-end e **Flutter** para mobile. Gosto de construir soluções escaláveis, do banco de dados até a interface.
 
 ---
 
@@ -33,9 +33,8 @@ Meu foco é **back-end com Java e Spring Boot**, bancos **Oracle**, sistemas cor
 |--------|--------|
 | **Back-end** | Java, Spring Boot, APIs REST, POO, Arquitetura em Camadas |
 | **Banco de Dados** | Oracle Database, SQL, PL/SQL (Procedures), Modelagem Relacional |
-| **Enterprise / ERP** | SAP ABAP |
-| **Mobile** | Flutter, Dart |
 | **Front-end** | HTML, CSS, JavaScript |
+| **Mobile** | Flutter, Dart |
 | **Ferramentas** | Git, GitHub, VS Code, Figma |
 
 <p align="center">
@@ -70,19 +69,13 @@ App com consumo de APIs REST, gerenciamento de estado e interface responsiva.
 
 👉 [Ver repositório](https://github.com/pablofranca-tech)
 
-### 🏢 Projetos SAP ABAP
-Aplicações empresariais e automação de processos corporativos com SAP ABAP.
-
-`ABAP` `SAP`
-
-👉 [Ver repositório](https://github.com/pablofranca-tech)
-
 ---
 
 ## 📈 Linguagens mais usadas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofranca-tech&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofranca-tech&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ffbe&text_color=c9d1d9&border_color=00ffbe" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofranca-tech&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ffbe&text_color=c9d1d9" />
 </p>
 
 ---
@@ -96,11 +89,11 @@ public class PabloFranca {
     private final String currentRole = "Estagiário - EducaTV";
 
     private final List<String> technologies = List.of(
-            "Java", "Spring Boot", "Oracle Database", "SAP ABAP", "Flutter"
+            "Java", "Spring Boot", "Oracle Database", "JavaScript", "Flutter"
     );
 
     public String goal() {
-        return "Construir soluções escaláveis para ambientes corporativos";
+        return "Construir soluções escaláveis, do banco de dados à interface";
     }
 }
 ```
